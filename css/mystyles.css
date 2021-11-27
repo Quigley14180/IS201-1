@@ -1,0 +1,47 @@
+/*I added new code as needed.
+When I needed a new feture I came and added it.*/
+.bold{
+      font-weight:bold;
+    }
+.normal{
+  font-weight: normal;
+}
+
+.style{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.italic{
+      font-style: italic;
+  }
+
+.alignleft{
+      text-align: left;
+  }
+
+.textleft {
+    text-align: left !important;
+  }
+.bg-faded {
+    background-color: white;
+  }
+
+.text-faded {
+    color: white;
+  }
+.right{
+    display: block;
+    margin-right:auto;
+  }
+  .resize{
+    width: 450px;
+    height: auto;
+  }
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+.ctacta{
+  padding-top: 1rem;
+  padding-bottom: 1rem;}
+
